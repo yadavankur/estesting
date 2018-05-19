@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="IPSI Test Automation Test Suite">
+	<test name="IPSI Test Cases">
+		<classes>
+			<class name="testNG.InputPageTest"></class>
+			<!-- <class name="testNG.ViewTest"> </class> -->
+		</classes>
+	</test>
+</suite>
